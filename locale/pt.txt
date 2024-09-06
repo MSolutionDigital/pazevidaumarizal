@@ -1,0 +1,34 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_D387F66A_C53E_531E_41CA_502154DC9871.source = https://www.instagram.com/msolutiondigital/
+LinkBehaviour_D36C13E3_C53E_D10F_41C2_F772D2781408.source = https://www.instagram.com/msolutiondigital/
+LinkBehaviour_D3AD6692_C53E_530E_41D1_C7F22E568B2A.source = https://www.instagram.com/pazevidaumarizal/
+LinkBehaviour_D37FFDFD_C53F_B0FA_41E3_1C5D516937A4.source = https://www.instagram.com/pazevidaumarizal/
+
+## Media
+
+### Audio
+audiores_D2E57A63_C536_B30E_41D0_B545C95B8C72.mp3Url = media/audio_D159CABC_C5CE_B37A_41D9_8E6CAED1C814_pt.mp3
+
+## Skin
+
+### Image
+Image_D28955EE_C532_7116_41B2_DB325D598ED8.url = skin/Image_D28955EE_C532_7116_41B2_DB325D598ED8_pt.png
+Image_D29C8D61_C532_510A_41E2_47E2FD609806.url = skin/Image_D29C8D61_C532_510A_41E2_47E2FD609806_pt.png
+Image_D2CB5EE6_C536_B309_41C2_B9E01B38AAFC.url = skin/Image_D2CB5EE6_C536_B309_41C2_B9E01B38AAFC_pt.png
+Image_D30BD043_C537_AF0E_41DF_33EB81C226BC.url = skin/Image_D30BD043_C537_AF0E_41DF_33EB81C226BC_pt.png
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Estr. do Campo Limpo, 5211 - Campo Limpo, São Paulo - SP
+
+### Title
+tour.name = Paz e Vida Sede jd Umarizal - Tour Virtual 360°
